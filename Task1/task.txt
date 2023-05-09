@@ -1,0 +1,16 @@
+Tugas HTML & CSS 4 Mei 2023
+ 
+
+Membuat layout berdasarkan referensi berikut
+
+https://www.frontendmentor.io/challenges/product-preview-card-component-GO7UmttRfa
+https://www.frontendmentor.io/challenges/order-summary-component-QlPmajDUj
+https://www.frontendmentor.io/challenges/stats-preview-card-component-8JqbgoU62
+Ketentuan:
+
+Pilih salah satu dari tiga contoh layout yg disediakan diatas
+Gunakan plain HTML & CSS (native)
+Untuk asset dan warna bebas (tidak harus persis)
+Submit repositori pada lms pesilat  > kelas Online Bootcamp NodeJs > tugas HTML & CSS dengan format nama repository sesuai dengan nama layout yang dipilih
+Pastikan repositori diatur ke public
+Deadline jumat siang

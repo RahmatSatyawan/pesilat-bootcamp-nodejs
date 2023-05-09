@@ -1,0 +1,19 @@
+Kalkulator Sederhana
+Tampilan:
+
+
+
+ 
+
+Alur:
+
+Mengisi input angka yang ingin di operasikan 
+Menekan tombol operasi akan menampilkan hasil sesuai operasi yang dipilih
+Reset akan menhapus input dan output
+Ketentuan:
+
+Tampilan tidak harus sama
+Fungsi kalkulator sederhana (tambah, kurang, kali, bagi )
+Tombol reset opsional
+Pengumpulan berupa link repositori dengan judul kalkulator-dom
+Deadline Senin 5 May siang
