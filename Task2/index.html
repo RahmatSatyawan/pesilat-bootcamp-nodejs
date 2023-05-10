@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="./style.css" />
+    <title>Kalkulator Sederhana</title>
+  </head>
+  <body>
+    <h1>Kalkulator Sederhana</h1>
+    <div class="wrapper">
+      <div class="container">
+        <div class="container-input">
+          <input
+            type="number"
+            class="input"
+            id="input1"
+            placeholder="Input Angka"
+            required
+          />
+          <input
+            type="number"
+            class="input"
+            id="input2"
+            placeholder="Input Angka"
+            required
+          />
+        </div>
+        <div class="container-operator">
+          <button class="operator" value="+">+</button>
+          <button class="operator" value="-">-</button>
+          <button class="operator" value="*">*</button>
+          <button class="operator" value="/">/</button>
+        </div>
+        <div class="container-reset">
+          <button class="reset" value="reset" id="reset">Reset</button>
+        </div>
+      </div>
+      <div class="container">
+        <input
+          type="text"
+          class="result"
+          id="result"
+          placeholder="Hasil"
+          readonly
+        />
+      </div>
+    </div>
+
+    <script src="./main.js"></script>
+  </body>
+</html>
